@@ -27,4 +27,4 @@ print(sieve(100)) # print the first 100 prime numbers
 ## Contact
 Please create an issue or hit me up if you spot an improvement! <br>
 
-[Email](shlok.kothari@gmail.com)
+[Email](shlok.kothari@gmail.com) - shlok.kothari@gmail.com

@@ -16,7 +16,6 @@ authors = [
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Education",
-    "License :: OSI Approved :: MIT License",
     "Topic :: Education",
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
